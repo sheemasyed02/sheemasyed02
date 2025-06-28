@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="left"> About Me</h1>
+## About Me -
 
 ```yaml
 name: Sheema Syed
