@@ -12,25 +12,19 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```yaml
 name: Sheema Syed
 located_in: India
 current_job: Full Stack Developer
-education: ["AI/ML Engineering", "Intelligent Systems"]
-company: Freelance
+education: ["AI/ML Engineering"]
 
 fields_of_interests:
   - "Web Development"
   - "Machine Learning"
   - "Artificial Intelligence"
   - "Mobile Development"
-  - "UI/UX Design"
-  
-currently_learning: ["Advanced AI/ML", "Cloud Architecture", "DevOps"]
-2025_goals: ["Master AI/ML Engineering", "Build SaaS Products", "Open Source Contributions"]
-hobbies: ["Coding", "Reading Tech Blogs", "Building Side Projects"]
+
+hobbies: ["Coding", "Building Side Projects"]
 ```
 
 ---
