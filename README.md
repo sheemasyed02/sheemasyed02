@@ -65,6 +65,18 @@ hobbies: ["Coding", "Building Side Projects"]
 
 ---
 
+🟡 Pacman Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph.svg">
+    <img alt="pacman eating contributions" src="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div></div>
+
+---
+
 <div align="center">
   
   ### 💫 *"Turning ideas into reality, one line of code at a time"*
