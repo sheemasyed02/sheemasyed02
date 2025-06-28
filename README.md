@@ -10,8 +10,8 @@
 
 ---
 
-<h3 align="center"> About Me</h3>
-
+<h2 align="center"> About Me</h2>
+<div align="center">
 ```yaml
 name: Sheema Syed
 located_in: India
@@ -26,6 +26,7 @@ fields_of_interests:
 
 hobbies: ["Coding", "Building Side Projects"]
 ```
+</div>
 
 ---
 
