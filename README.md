@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sheema Syed
+<h1 align="center">Hi there, I'm Sheema Syed</h1>
 
 <div align="center">
   
@@ -52,7 +52,7 @@ hobbies: ["Coding", "Building Side Projects"]
 </picture> -->
 
 ---
-🟡 Pacman Contribution Graph
+<!--🟡 Pacman Contribution Graph -->
 
 <div align="center">
   <picture>
@@ -77,7 +77,7 @@ hobbies: ["Coding", "Building Side Projects"]
 
 <div align="center">
   
-  ### 💫 *"Turning ideas into reality, one line of code at a time"*
+  ### *"Turning ideas into reality, one line of code at a time ✨"*
   
   ![Wave](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer)
   
