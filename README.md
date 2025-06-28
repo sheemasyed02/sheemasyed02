@@ -110,6 +110,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/snake.svg" alt="Snake animation" />
+
 
 ###
