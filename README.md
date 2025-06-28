@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sheema Syed</h1>
 <h3 align="center">Turning ideas into reality ✨</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheemasyed02&label=Profile%20views&color=0e75b6&style=flat" alt="sheemasyed02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sheemasyed02&label=Profile%20views&color=0e75b6&style=flat" alt="sheemasyed02" /> </p>
 
 <h3 align="left">About me</h3>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shma.syd975@gmail.com**
 
-<h3 align="left">I code with</h3><div align="center">
+<div align="center">
   <a href="shma.syd975@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -29,7 +29,7 @@
 <img align="right" height="150" src="https://imgflip.com/memetemplate/307100265/Cute-anime-gif-idk"  />
 
 ###
-
+<h3 align="left">I code with - </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -102,6 +102,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sheemasyed02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
