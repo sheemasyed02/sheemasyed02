@@ -22,8 +22,6 @@
 
 <h2 align="left"></h2>
 
-<img align="right" height="150" src="https://imgflip.com/memetemplate/307100265/Cute-anime-gif-idk"  />
-
 <h3 align="left">I code with - </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
