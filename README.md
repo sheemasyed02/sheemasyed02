@@ -15,7 +15,7 @@
 ```yaml
 name: Sheema Syed
 located_in: India
-current_job: Full Stack Developer
+Aspiring: AI Specialist
 
 fields_of_interests:
   - "Web Development"
