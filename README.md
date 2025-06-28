@@ -16,7 +16,6 @@
 name: Sheema Syed
 located_in: India
 current_job: Full Stack Developer
-education: ["AI/ML Engineering"]
 
 fields_of_interests:
   - "Web Development"
@@ -24,7 +23,6 @@ fields_of_interests:
   - "Artificial Intelligence"
   - "Mobile Development"
 
-hobbies: ["Coding", "Building Side Projects"]
 ```
 
 ---
