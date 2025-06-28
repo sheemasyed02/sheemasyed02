@@ -1,84 +1,76 @@
 # 👋 Hello, I'm Sheema Syed
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=AI%2FML+Engineer+%26+Developer;Turning+Ideas+into+Reality+%E2%9C%A8;Building+Intelligent+Systems" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sheemasyed02&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sheemasyed02?label=Followers&style=for-the-badge&color=6366f1" alt="GitHub Followers" />
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;AI%2FML+Engineer;Problem+Solver;Innovation+Enthusiast)](https://git.io/typing-svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=sheemasyed02&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="profile views" />
+  
 </div>
 
 ---
 
 ## 🚀 About Me
 
-```typescript
-const sheema = {
-    role: "AI/ML Engineer & Full-Stack Developer",
-    location: "🌍 Remote",
-    currentFocus: "Building intelligent systems and scalable applications",
-    learning: ["Advanced AI/ML Engineering", "Intelligent Systems", "Cloud Architecture"],
-    interests: ["Artificial Intelligence", "Web Development", "Open Source"],
-    funFact: "I love turning complex problems into elegant solutions! 🧠✨"
-};
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```yaml
+name: Sheema Syed
+located_in: India
+current_job: Full Stack Developer
+education: ["AI/ML Engineering", "Intelligent Systems"]
+company: Freelance
+
+fields_of_interests:
+  - "Web Development"
+  - "Machine Learning"
+  - "Artificial Intelligence"
+  - "Mobile Development"
+  - "UI/UX Design"
+  
+currently_learning: ["Advanced AI/ML", "Cloud Architecture", "DevOps"]
+2025_goals: ["Master AI/ML Engineering", "Build SaaS Products", "Open Source Contributions"]
+hobbies: ["Coding", "Reading Tech Blogs", "Building Side Projects"]
 ```
 
-- 🔭 **Currently Working On:** Building my professional portfolio and AI-powered applications
-- 🌱 **Learning:** Advanced AI/ML Engineering, Intelligent Systems, and Cloud Architecture
-- 💡 **Passionate About:** Creating innovative solutions that make a real impact
-- 🎯 **Goal:** Contributing to cutting-edge AI research and development
-- 📧 **Let's Connect:** [shma.syd975@gmail.com](mailto:shma.syd975@gmail.com)
-
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <a href="mailto:shma.syd975@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sheema-syed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sheemasyed02" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+### Frontend Mastery
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,sass,tailwind,bootstrap" alt="frontend"/>
 </div>
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### **Languages & Frameworks**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,dart,php" alt="Languages" />
+### Backend Expertise  
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,mysql,mongodb,firebase,docker" alt="backend"/>
 </div>
 
-### **Frontend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,html,css,tailwind,bootstrap,sass" alt="Frontend" />
+### AI/ML & Data Science
+<div>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="aiml"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas"/>
 </div>
 
-### **Backend & Database**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" />
+### Mobile Development
+<div>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" alt="mobile"/>
 </div>
 
-### **AI/ML & Data Science**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,python" alt="AI/ML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy" />
+### Cloud & DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,ubuntu,git,github" alt="devops"/>
 </div>
 
-### **Mobile & Desktop**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,electron" alt="Mobile & Desktop" />
+### Design & Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,wordpress" alt="tools"/>
 </div>
 
-### **Tools & Platforms**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,linux,ubuntu,figma,photoshop,wordpress,arduino" alt="Tools" />
 </div>
 
 ---
@@ -86,46 +78,88 @@ const sheema = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheemasyed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheemasyed02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheemasyed02&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheemasyed02&theme=tokyonight&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakLabel=9D4EDD"/>
 </div>
 
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sheemasyed02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sheemasyed02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheemasyed02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/github-contribution-grid-snake-dark.svg">
+  </picture>
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 🏆 GitHub Profile Summary
 
 <div align="center">
-  <a href="https://github.com/sheemasyed02/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheemasyed02&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Portfolio Repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheemasyed02&theme=tokyonight" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sheemasyed02&theme=tokyonight" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sheemasyed02&theme=tokyonight" width="48%"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/sheemasyed02/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheemasyed02&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9"/>
+  </a>
+  <a href="https://github.com/sheemasyed02/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sheemasyed02&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=C9D1D9"/>
   </a>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Quote" />
-</div>
+## 📈 Activity Graph
 
 <div align="center">
-  <h3>⭐ From <a href="https://github.com/sheemasyed02">Sheema Syed</a> - Let's build something amazing together! 🚀</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheemasyed02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF"/>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shma.syd975@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-syed)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💫 *"Turning ideas into reality, one line of code at a time"*
+  
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer)
+  
+</div>
+
+<!-- Visitor Badge -->
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sheemasyed02&label=Profile%20Views&color=9&icon=5&pretty=true" />
 </div>
