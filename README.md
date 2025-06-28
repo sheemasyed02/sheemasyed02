@@ -29,40 +29,13 @@ hobbies: ["Coding", "Building Side Projects"]
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ I code with
 
 <div align="center">
 
 ### Frontend Mastery
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,typescript,javascript,html,css,sass,tailwind,bootstrap" alt="frontend"/>
-</div>
-
-### Backend Expertise  
-<div>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php,mysql,mongodb,firebase,docker" alt="backend"/>
-</div>
-
-### AI/ML & Data Science
-<div>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" alt="aiml"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" alt="numpy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" alt="pandas"/>
-</div>
-
-### Mobile Development
-<div>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift" alt="mobile"/>
-</div>
-
-### Cloud & DevOps
-<div>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,linux,ubuntu,git,github" alt="devops"/>
-</div>
-
-### Design & Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,wordpress" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,python,java,php,mysql,mongodb,firebase,docker,wordpress,angular,typescript,javascript,html,python,tensorflow,flutter,dart,css,aws,docker, git,figma, photosshop,sass,tailwind,bootstrap" alt="tools"/>
 </div>
 
 </div>
@@ -124,22 +97,12 @@ hobbies: ["Coding", "Building Side Projects"]
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheemasyed02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF"/>
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shma.syd975@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-syed)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
   
 </div>
 
