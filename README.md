@@ -45,12 +45,22 @@ hobbies: ["Coding", "Building Side Projects"]
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
+---
+🟡 Pacman Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph.svg">
+    <img alt="pacman eating contributions" src="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</div></div>
 
 ---
 
@@ -62,18 +72,6 @@ hobbies: ["Coding", "Building Side Projects"]
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-syed)
   
 </div>
-
----
-
-🟡 Pacman Contribution Graph
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph.svg">
-    <img alt="pacman eating contributions" src="https://raw.githubusercontent.com/sheemasyed02/sheemasyed02/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</div></div>
 
 ---
 
