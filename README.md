@@ -83,14 +83,21 @@ fields_of_interests:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&bg_color=000000&border_color=7536B2&icon_color=FF9554&text_color=D280FF&title_color=64EAE2" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&bg_color=000000&border_color=7536B2&text_color=BC52FF&title_color=48A8A2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sheemasyed02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=sheemasyed02&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+  <!--<img src="https://streak-stats.demolab.com?user=sheemasyed02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=sheemasyed02&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />-->
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheemasyed02&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
 </div>
+
+
 
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=300" />
