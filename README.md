@@ -8,28 +8,34 @@
   
 </div>
 
-
-
 <div align="center">
   
 ## 👤 About Me
 
 </div>
 
+
 ```yaml
 Name: Sheema Syed
-Aspiring: AI Specialist & Creative Designer
+Role: Full Stack Developer & AI Enthusiast
 Email: shma.syd975@gmail.com
+Current Focus: AI/ML, Web Development, Creative Design
 
-fields_of_interests:
-  - "Artificial Intelligence"
-  - "Machine Learning"
-  - "Web & Mobile Development"
+specializations:
+  - "Artificial Intelligence & Machine Learning"
+  - "Full Stack Web Development"
+  - "Mobile App Development"
+
+currently_learning:
+  - "Advanced Machine Learning Algorithms"
+  - "Cloud Architecture & DevOps"
+  - "Modern Web Frameworks"
 ```
 
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=98%" />
-</div> -->
+**🚀 What I'm up to:**
+- 🔭 Working on AI-powered applications
+- 🌱 Learning advanced machine learning techniques
+- 👯 Looking to collaborate on innovative tech projects
 
 <div align="center">
   
@@ -72,10 +78,6 @@ fields_of_interests:
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<!--<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=98%" />
-</div> -->
-
 <div align="center">
   
 ## 📊 GitHub Analytics
@@ -83,25 +85,13 @@ fields_of_interests:
 </div>
 
 <div align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-
   <img src="https://github-readme-stats.vercel.app/api?username=sheemasyed02&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&bg_color=000000&border_color=7536B2&icon_color=FF9554&text_color=D280FF&title_color=64EAE2" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheemasyed02&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&bg_color=000000&border_color=7536B2&text_color=BC52FF&title_color=48A8A2" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
-  <!--<img src="https://streak-stats.demolab.com?user=sheemasyed02&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=sheemasyed02&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />-->
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheemasyed02&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+  <img src="https://streak-stats.demolab.com?user=sheemasyed02&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5" height="220" alt="streak graph" />
 </div>
-
-
-
-<!--<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=9D4EDD&height=2&section=header&width=300" />
-</div> -->
 
 <div align="center">
   
@@ -117,10 +107,6 @@ fields_of_interests:
   </picture>
 </div>
 
-<!--<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div> -->
-
 <div align="center">
   
 ## 🔗 Connect with Me
@@ -133,10 +119,6 @@ fields_of_interests:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheema-syed)
   
 </div>
-
-<!--<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div> -->
 
 <div align="center">
   
