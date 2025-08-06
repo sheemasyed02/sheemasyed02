@@ -1,7 +1,8 @@
 name: Generate Pacman Animation
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # Fixed cron syntax
+    - cron: "0 0 * * *" 
   workflow_dispatch:
 
 permissions:
@@ -16,7 +17,7 @@ jobs:
     
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         
       - name: Generate pacman.svg
         uses: Platane/snk@v3
@@ -26,10 +27,22 @@ jobs:
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=#FF9554&color_dots=#7536B2,#9243DD,#BC52FF,#D280FF,#64EAE2
             
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Upload artifacts (for debugging)
+        uses: actions/upload-artifact@v4
+        if: always()
         with:
-          target_branch: output
-          build_dir: dist
+          name: pacman-svg-files
+          path: dist/
+          
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+        
+      - name: Upload to GitHub Pages
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: dist/
+          
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
