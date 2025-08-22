@@ -4,7 +4,7 @@
   
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Code+%7C+Create+%7C+Inspire;Turning+Ideas+Into+Reality;Creating+Smarter+Solutions;AI+%26+ML+Enthusiast)](https://git.io/typing-svg)
   
-  <img src="https://komarev.com/ghpvc/?username=sheemasyed2&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="profile view" />
+  <img src="https://komarev.com/ghpvc/?username=sheemasyed0&label=Profile%20views&color=9D4EDD&style=for-the-badge" alt="profile view" />
   
 </div>
 
