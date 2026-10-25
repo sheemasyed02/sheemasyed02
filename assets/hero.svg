@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF8F5"/><stop offset=".45" stop-color="#F1ECF6"/><stop offset="1" stop-color="#E8E0EF"/></linearGradient>
+ <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C5A568"/><stop offset=".5" stop-color="#B5A0CC"/><stop offset="1" stop-color="#8B78A6"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#8B78A6" opacity=".25"/></pattern>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<rect x="0" y="0" width="1200" height="330" rx="24" fill="url(#dots)" opacity=".55"/>
+<circle cx="1030" cy="72" r="180" fill="#E8E0EF" opacity=".9"/>
+<circle cx="1040" cy="78" r="126" fill="none" stroke="#C5A568" stroke-width="1.5" opacity=".8"/>
+<circle cx="1040" cy="78" r="96" fill="url(#orb)" opacity=".92"/>
+<circle cx="1040" cy="78" r="66" fill="#FAF8F5" opacity=".45"/>
+<path d="M930 190 C1010 125 1070 238 1150 158 S1190 160 1210 205" fill="none" stroke="#8B78A6" stroke-width="3" opacity=".7"/>
+<path d="M900 230 C1000 170 1090 275 1200 220" fill="none" stroke="#C5A568" stroke-width="2" opacity=".9"/>
+<rect x="64" y="55" width="8" height="190" rx="4" fill="#C5A568"/>
+<text x="98" y="94" fill="#8B78A6" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">COMPUTER SCIENCE  /  AI &amp; ML</text>
+<text x="94" y="164" fill="#342B3D" font-family="Georgia,serif" font-size="61" font-weight="bold">Sheema Syed</text>
+<text x="98" y="207" fill="#6F5A88" font-family="Arial,sans-serif" font-size="22">Building useful things with code and curiosity.</text>
+<text x="98" y="259" fill="#817986" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">SOFTWARE  ·  INTELLIGENCE  ·  DESIGN</text>
+<path d="M98 280 H430" stroke="#C5A568" stroke-width="2"/>
+<circle cx="444" cy="280" r="4" fill="#8B78A6"/>
+</svg>

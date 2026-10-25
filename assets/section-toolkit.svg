@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
+<rect width="1200" height="92" rx="14" fill="#F1ECF6"/><rect x="0" y="0" width="8" height="92" rx="4" fill="#C5A568"/>
+<text x="34" y="37" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#8B78A6">MY WORKBENCH</text><text x="34" y="68" font-family="Georgia,serif" font-size="28" fill="#342B3D">Tools I use to bring ideas to life</text>
+<g transform="translate(940 25)" fill="none" stroke="#8B78A6" stroke-width="2"><rect x="0" y="0" width="45" height="42" rx="7"/><rect x="57" y="0" width="45" height="42" rx="7"/><rect x="114" y="0" width="45" height="42" rx="7"/><path d="M10 14 H35 M10 22 H29 M67 14 H92 M67 22 H86 M124 14 H149 M124 22 H143"/></g>
+</svg>

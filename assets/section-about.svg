@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="92" viewBox="0 0 1200 92">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F1ECF6"/><stop offset=".55" stop-color="#FAF8F5"/><stop offset="1" stop-color="#E8E0EF"/></linearGradient></defs>
+<rect width="1200" height="92" rx="14" fill="url(#g)"/><rect x="0" y="0" width="8" height="92" rx="4" fill="#8B78A6"/>
+<text x="34" y="38" font-family="Arial,sans-serif" font-size="12" letter-spacing="4" fill="#8B78A6">BEHIND THE CODE</text>
+<text x="34" y="68" font-family="Georgia,serif" font-size="28" fill="#342B3D">A little about me</text>
+<path d="M920 46 H1115" stroke="#C5A568" stroke-width="2"/><circle cx="1138" cy="46" r="13" fill="none" stroke="#8B78A6" stroke-width="2"/><circle cx="1138" cy="46" r="4" fill="#C5A568"/>
+</svg>
